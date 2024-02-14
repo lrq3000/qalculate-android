@@ -50,4 +50,6 @@ Features from libqalculate:
 * Plotting:
 * and more...
 
+Note that the numbers pad on the GUI is optional, you can directly tap and input with your Android keyboard and hence enter alphanumeric characters that are not on the numbers pad.
+
 _For more details about the syntax, and available functions, units, and variables, please consult the manual (https://qalculate.github.io/manual/)_
